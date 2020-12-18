@@ -1,0 +1,6 @@
+{
+    "token": "TOKEN HERE",
+    "channel_id": 0,
+    "ignore_bot_messages": false,
+    "ignore_bot_reactions": false
+}
